@@ -13,6 +13,10 @@ public class EmployeeDetails { // block or body of the class
 		System.out.println("Employee mobile: 8939278836");
 	}
 	
+	private void empLocation() {
+		System.out.println("OMR");
+	}
+	
 	// main method
 	public static void main(String[] args) {
 		
